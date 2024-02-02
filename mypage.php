@@ -1,4 +1,12 @@
+<!DOCTYPE html>
 <html>
-<title>Hello</title>
-    <?php> echo "<h1>hello</h1> "
+<body>
+
+<h1>Hello</h1>
+
+<?php
+echo "My name is Ranim!";
+?>
+
+</body>
 </html>
