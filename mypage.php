@@ -5,7 +5,7 @@
 <h1>Hello</h1>
 
 <?php
-echo "My name is Ranim Hosni!";
+echo "My name is Ranim !";
 ?>
 
 </body>
